@@ -13,5 +13,8 @@
   ],
   "70000/Tickettasche-TTS-ae": [
     { "qty": 500,  "price": "0,96" }
+  ],
+  "70000/SU-AXOPlus500-TRC": [
+    { "qty": 1,  "price": "13,90" }
   ]
 }
