@@ -16,5 +16,9 @@
   ],
   "70000/SU-AXOPlus500-TRC": [
     { "qty": 1,  "price": "13,90" }
+  ],
+  "70149/tui-km-c4-tts": [
+    { "qty": "ab 200",  "price": "0,21" },
+    { "qty": "ab 1000",  "price": "0,19" },
   ]
 }
