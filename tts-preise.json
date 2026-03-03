@@ -44,18 +44,25 @@
     "70928/tui-stempel-tordat-4927-tts": [
     { "qty": 1,  "price": "34,90" }
   ],
+    "70559/tui-VK-Foto-tts": [
+    { "qty": 100,  "price": "0,45" },
+    { "qty": 250,  "price": "0,26" },
+    { "qty": 500,  "price": "0,17" }
+  ],  
     "70559/tui-VK-tts": [
     { "qty": 100,  "price": "0,45" },
-    { "qty": 250,  "price": "0,26" }
+    { "qty": 250,  "price": "0,26" },
     { "qty": 500,  "price": "0,17" }
   ],
     "70559/tui-VK-Foto-Oeffn-tts": [
-    { "qty": "ab 200",  "price": "0,21" },
-    { "qty": "ab 1000",  "price": "0,19" }
+    { "qty": 100,  "price": "0,45" },
+    { "qty": 250,  "price": "0,26" },
+    { "qty": 500,  "price": "0,17" }
   ],
     "70559/tui-VK-Oeffn-tts": [
-    { "qty": "ab 200",  "price": "0,21" },
-    { "qty": "ab 1000",  "price": "0,19" }
+    { "qty": 100,  "price": "0,45" },
+    { "qty": 250,  "price": "0,26" },
+    { "qty": 500,  "price": "0,17" }
   ],
     "70559/tui-Aufkleber-Klein-tts": [
     { "qty": "ab 200",  "price": "0,21" },
