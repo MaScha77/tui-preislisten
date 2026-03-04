@@ -99,5 +99,14 @@
   ],
     "70000/tui-bu-trans-dinlang": [
     { "qty": 1,  "price": "0,217" }
+  ],
+    "70149/tui-gs-dinlang-tts": [
+    { "qty": "ab 20",  "price": "0,40" }
+  ],
+    "70000/tui-abverkauf-tts": [
+    { "qty": "ab 20",  "price": "0,40" }
+  ],
+    "70559/tui-Notizblock-A5-LG-tts": [
+    { "qty": "ab 10",  "price": "1,15" }
   ]
 }
